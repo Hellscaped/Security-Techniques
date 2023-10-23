@@ -5,7 +5,7 @@
 ### THE HANDSHAKE
 Sometimes, well, you have prying eyes, and you wanna talk with someone truly in private.
 You can use this method until you get a better method of communication.
-Keep in mind that you shouldn't use this method for encrypting large files.
+Keep in mind that you shouldn't use this method for encrypting large files, and using 4096 bit keys gives you the most security.
 
 #### SENDING:
 1. Go to the website
