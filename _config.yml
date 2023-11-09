@@ -1,1 +1,4 @@
-theme: slate
+remote_theme: pages-themes/slate@v0.2.0
+title: "Security Techniques"
+description: "Prying eyes? Use these!"
+show_downloads: "false"
